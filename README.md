@@ -1,1 +1,2 @@
 # JLEScripts
+**Pre requisites: **
