@@ -34,5 +34,5 @@ For scenario 4, username and password to be filled in the feature file. Existing
 Following plugins to be installed in Intellij
 1. Cucumber
 2. Gherkin
-   Preinstalled: TestNG, Maven
+3. Preinstalled: TestNG, Maven
 
