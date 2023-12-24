@@ -7,10 +7,10 @@ BDD cucumber scripts
 3. Clone the project and open in the desired IDE, ensure that the project is marked as Maven
 
 To do the same in Intellij:
-     a. Open project in Intellij, right click project and go to module settings
-     b. Select module sdk under dependencies
-     c. Rebuild the project
-     d. Right click pom.xml and mark as Maven project
+1. Open project in Intellij, right click project and go to module settings
+2. Select module sdk under dependencies
+3. Rebuild the project
+4. Right click pom.xml and mark as Maven project
 
 # Features and Reports
 1. Cucumber features can be found in src>test>resources>features
