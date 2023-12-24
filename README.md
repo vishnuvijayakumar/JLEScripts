@@ -5,6 +5,7 @@ BDD cucumber scripts
 1. Java JDK to be installed (Tested with Open JDK 19.0.1) and ensure that environment variable is set
 2. Latest chrome browser
 3. Clone the project and open in the desired IDE, ensure that the project is marked as Maven
+
 To do the same in Intellij:
      a. Open project in Intellij, right click project and go to module settings
      b. Select module sdk under dependencies
