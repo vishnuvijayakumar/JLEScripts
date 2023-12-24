@@ -30,3 +30,9 @@ BDD cucumber scripts
 # Note: 
 For scenario 4, username and password to be filled in the feature file. Existing credentials wont work. For Scenario 5, valid project name to be given in the feature file. It will work if Scenario 4 is successful, since same project name is given in both cases
 
+# Plugins
+Following plugins to be installed in Intellij
+1. Cucumber
+2. Gherkin
+   Preinstalled: TestNG, Maven
+
