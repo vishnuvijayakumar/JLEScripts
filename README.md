@@ -11,7 +11,7 @@ BDD cucumber scripts
      c. Rebuild the project
      d. Right click pom.xml and mark as Maven project
 
-# Features and Reprots
+# Features and Reports
 1. Cucumber features can be found in src>test>resources>features
 2. Reports will be generated under target>Reports>report.html (Open in any browser)
 3. To refer sample report without running scripts: src>test>resources>SampleReport>report.html
