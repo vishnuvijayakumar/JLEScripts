@@ -27,5 +27,6 @@ BDD cucumber scripts
 4. Save project with a name 
 5. Delete project after seacrching it
 
-# Note: For scenario 4, username and password to be filled in the feature file. Existing credentials wont work. For Scenario 5, valid project name to be given in the feature file. It will work if Scenario 4 is successful, since same project name is given in both cases
+# Note: 
+For scenario 4, username and password to be filled in the feature file. Existing credentials wont work. For Scenario 5, valid project name to be given in the feature file. It will work if Scenario 4 is successful, since same project name is given in both cases
 
